@@ -62,6 +62,3 @@ end
 
 # rubocop
 gem 'rubocop', '>= 1.0', '< 2.0'
-
-#js bundling
-gem 'jsbundling-rails'
